@@ -33,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajit8674&show_icons=true&locale=en" alt="rajit8674" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajit8674&" alt="rajit8674" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajit8674&theme=dark)
+
+
