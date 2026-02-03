@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajit8674)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rajit8674&theme=dark)
